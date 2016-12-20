@@ -20,7 +20,6 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 
 **Ph.D.**  in Electrical and Computer Engineering, University of Louisville, USA (2012-2016)  
 **Dissertation Title:** "[Sparse Feature Learning for Image Analysis in Segmentation, Classification and Disease Diagnosis](http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=3368&context=etd)"  
-* Advisor: [Jacek M. Zurada](https://scholar.google.com/citations?user=_rOWhBkAAAAJ&hl=en)  
 * Advisor: [Ayman El-Baz](https://scholar.google.com/citations?user=RkQNgg4AAAAJ&hl=en)
 
 ## Experience ##
