@@ -42,7 +42,8 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 
 * Inception-ResNet implementation [(code/keras)](https://github.com/ehosseiniasl/inception-resnet)  
 
-## Publication 
+## Publication  
+
 ### Convolutional Network
 
 * E. Hosseini-Asl, “Structured Sparse Convolutional Autoencoder", arXiv:1604.04812 [cs.LG cs.NE][(paper)](http://arxiv.org/abs/1604.04812), [(code-python/theano)](https://github.com/ehosseiniasl/structured-sparse-convolutional-autoencoder)  
