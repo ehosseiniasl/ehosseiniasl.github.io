@@ -45,7 +45,7 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 ## Publication 
 ### Convolutional Network
 
-* E. Hosseini-Asl, J. M. Zurada, “Structured Sparse Convolutional Autoencoder", arXiv:1604.04812 [cs.LG cs.NE][(paper)](http://arxiv.org/abs/1604.04812), [(code-python/theano)](https://github.com/ehosseiniasl/structured-sparse-convolutional-autoencoder)  
+* E. Hosseini-Asl, “Structured Sparse Convolutional Autoencoder", arXiv:1604.04812 [cs.LG cs.NE][(paper)](http://arxiv.org/abs/1604.04812), [(code-python/theano)](https://github.com/ehosseiniasl/structured-sparse-convolutional-autoencoder)  
 
 * E. Hosseini-Asl, A. El-Baz, “Multimodel Alzheimer's Disease Diagnosis by Deep Convolutional CCA", in preparation for submission to Medical Imaging, IEEE Transactions on. [(code-python/theano)](https://github.com/ehosseiniasl/deep-cca)
 
