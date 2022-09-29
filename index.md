@@ -3,7 +3,7 @@
 
 <img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/email.png?raw=true"  width="30" height="30"> email: \<firstname\>.\<lastname\> \[at\] gmail.com
 
-<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/resume.png?raw=true"  width="30" height="30"> [Resume](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/Ehsan_CV.pdf)
+<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/resume.png?raw=true"  width="30" height="30"> [Resume](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/resume.pdf)
 
 <!-- * ![linkedin](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/linkedin.png){:height="36px" width="36px"} [Linkedin](https://www.linkedin.com/in/ehsan-hosseini-asl-4b2b2828/) -->
 <img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/linkedin.png?raw=true"  width="30" height="30"> [Linkedin](https://www.linkedin.com/in/ehsan-hosseini-asl-4b2b2828/)
@@ -68,16 +68,19 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 
 
 # Demo
-* End-to-End Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight) [(code)](https://github.com/salesforce/simpletod)/[blog](https://blog.salesforceairesearch.com/simpletod/)
+
+### Task-Oriented Dialogue
+* SimpleTOD: An end-to-end Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight) [(code)](https://github.com/salesforce/simpletod)/[blog](https://blog.salesforceairesearch.com/simpletod/)
 
 ![SimpleTOD](https://github.com/salesforce/simpletod/blob/master/images/simpletod_autoregressive.gif?raw=true)
 
-* Aspect-based Sentiment Analysis with generative language model (NAACL 2022) [(code)](https://github.com/salesforce/fewshot_absa)
+### Sentiment Analysis
+* Few-shot Aspect-based Sentiment Analysis with generative language model (NAACL 2022) [(code)](https://github.com/salesforce/fewshot_absa)
 
 ![gif](https://github.com/salesforce/fewshot_absa/blob/master/images/exp1.gif?raw=true)
 
-
-* Speech Synthesis using Generative Adversarial Network (Interspeech 2018, ICLR 2019) [(blog)](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
+### Speech Syntesis / Speech Recognition
+* Low-resource speech synthesis/recognition using Multi-Discriminator Generative Adversarial Network (Interspeech 2018, ICLR 2019) [(blog)](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
 ![spectrogram](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/spectrogram.png?raw=true)
 
 <!-- * Number generation with Variational Convolutional Autoencoder [(code-python/theano)](https://github.com/ehosseiniasl/variational-convolutional-autoencoder)  
