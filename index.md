@@ -81,7 +81,7 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 ![gif](https://github.com/salesforce/fewshot_absa/blob/master/images/exp1.gif?raw=true)
 
 ### Speech Syntesis / Recognition
-* Low-resource speech synthesis/recognition using Multi-Discriminator Generative Adversarial Network [[Interspeech 2018]](https://arxiv.org/abs/1804.00522) [[ICLR 2019]](https://openreview.net/pdf?id=B1G9doA9F7)), [[blog]](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
+* Low-resource speech synthesis/recognition using Multi-Discriminator Generative Adversarial Network [[Interspeech 2018]](https://arxiv.org/abs/1804.00522) [[ICLR 2019]](https://openreview.net/pdf?id=B1G9doA9F7), [[blog]](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
 
 ![spectrogram](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/spectrogram.png?raw=true)
 
