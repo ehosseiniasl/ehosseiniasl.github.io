@@ -1,26 +1,35 @@
 # Ehsan Hosseini-Asl  
 ![My image](https://github.com/ehosseiniasl/resume/blob/master/me.png?raw=true)  
 
+<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/email.png"  width="30" height="30"> email: \<firstname\>.\<lastname\> \[at\] gamil.com
+
+<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/resume.png"  width="30" height="30"> [Resume](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/Ehsan_CV.pdf)
+
+<!-- * ![linkedin](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/linkedin.png){:height="36px" width="36px"} [Linkedin](https://www.linkedin.com/in/ehsan-hosseini-asl-4b2b2828/) -->
+<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/linkedin.png"  width="30" height="30"> [Linkedin](https://www.linkedin.com/in/ehsan-hosseini-asl-4b2b2828/)
+<!-- * Google scholar: [link](https://scholar.google.com/citations?user=I9w3ON4AAAAJ&hl=en) -->
+<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/gscholar.png"  width="30" height="30"> [Google scholar](https://scholar.google.com/citations?user=I9w3ON4AAAAJ&hl=en)
+
+
+
+## Bio: 
+I am a senior research scientist in Salesforce AI Research. My research area is deep learning with application to natural language processing, speech processing and computer vision. My current focus is building end-to-end language modeling in NLP, few-shot learning, and sample efficient deep learning models that generalize better to the distribution shift.
+
+
 ## NEWS  
 
-* April, 2022
-My paper on few-shot aspect-based sentiment analysis is accepted to NAACL 2022
+* **April, 2022:** My paper on few-shot aspect-based sentiment analysis is accepted to NAACL 2022
 
 
-* September, 2020
-My paper on end-to-end language modeling for task-oriented dialogye was acceptet as spotlight in NeurIPS 2022
+* **September, 2020:** My paper on end-to-end language modeling for task-oriented dialogye was acceptet as spotlight in NeurIPS 2022
 
-* October, 2019
-Our on end-to-end belief state tracking for task-oriented dialogye was selected as outstanding paper at ACL 2019
+* **October, 2019:** Our on end-to-end belief state tracking for task-oriented dialogye was selected as outstanding paper at ACL 2019
 
-* June, 2019
-Our paper on end-to-end belief state tracking for task-oriented dialogye was accepter to ACL 2019
+* **June, 2019:** Our paper on end-to-end belief state tracking for task-oriented dialogye was accepter to ACL 2019
 
-* December, 2018
-My paper on few-shot domain adaptation was accepted to ICLR 2019
+* **December, 2018:** My paper on few-shot domain adaptation was accepted to ICLR 2019
 
-* June, 2018
-My paper on speech synthesis using generative adversarial network is accepted to Interspeech 2018
+* **June, 2018:** My paper on speech synthesis using generative adversarial network is accepted to Interspeech 2018
 
 <!-- * September, 2016  
 Our NSF proposal was awarded based on my IEEE TNNLS paper for part-based representation in Deep Networks [[paper](https://arxiv.org/abs/1601.02733)]  
