@@ -3,6 +3,25 @@
 
 ## NEWS  
 
+* April, 2022
+My paper on few-shot aspect-based sentiment analysis is accepted to NAACL 2022
+
+
+* September, 2020
+My paper on end-to-end language modeling for task-oriented dialogye was acceptet as spotlight in NeurIPS 2022
+
+* October, 2019
+Our on end-to-end belief state tracking for task-oriented dialogye was selected as outstanding paper at ACL 2019
+
+* June, 2019
+Our paper on end-to-end belief state tracking for task-oriented dialogye was accepter to ACL 2019
+
+* December, 2018
+My paper on few-shot domain adaptation was accepted to ICLR 2019
+
+* June, 2018
+My paper on speech synthesis using generative adversarial network is accepted to Interspeech 2018
+
 * September, 2016  
 Our NSF proposal was awarded based on my IEEE TNNLS paper for part-based representation in Deep Networks [[paper](https://arxiv.org/abs/1601.02733)]  
 Title: Additive Parts-based Data Representation with Nonnegative Sparse Autoencoders [[link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1641042&HistoricalAwards=false)]
@@ -16,6 +35,19 @@ Winner of Outstanding Dissertation Award at University of Louisville
 * June 2015  
 Winner of IEEE Graduate Student Research Grant for Part-based representation in Deep Network [[link](http://cis.ieee.org/graduate-student-research-grants.html)]
 
+## Honors and Awards ##
+* 2020 Spotlight paper at NeurIPS 2020
+* 2019 Outstanding paper at ACL 2019
+* 2016 Outstanding PhD Dissertation Award (John M. Houchens Prize), School of Interdisciplinary and Graduate Studies, University of Louisville  
+* 2016 Graduate Dean's Citation School of Interdisciplinary and Graduate Studies, University of Louisville  
+* [IEEE 2015 Graduate Student Research grant, IEEE Computational Intelligence Society, "Part-based Representation of Data In Deep Learning Models"](http://cis.ieee.org/graduate-student-research-grants.html)
+
+
+## Experience ##
+* Senior Research Scientist, Salesforce AI Research (March 2017-present)
+<!-- * Machine Learning Intern, Captricity Inc. (Jun 2015- Jan 2016)  -->
+<!-- * Machine Learning Engineer, Captricity Inc. (Feb 2016-current) -->
+
 ## Education
 
 **Ph.D.**  in Electrical and Computer Engineering, University of Louisville, USA (2012-2016)  
@@ -23,16 +55,18 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 
 * Advisor: [Ayman El-Baz](https://scholar.google.com/citations?user=RkQNgg4AAAAJ&hl=en)
 
-## Experience ##
-* Machine Learning Intern, Captricity Inc. (Jun 2015- Jan 2016) 
-* Machine Learning Engineer, Captricity Inc. (Feb 2016-current)
 
-## Honors and Awards ##
-* 2016 Outstanding PhD Dissertation Award (John M. Houchens Prize), School of Interdisciplinary and Graduate Studies, University of Louisville  
-* 2016 Graduate Dean's Citation School of Interdisciplinary and Graduate Studies, University of Louisville  
-* [IEEE 2015 Graduate Student Research grant, IEEE Computational Intelligence Society, "Part-based Representation of Data In Deep Learning Models"](http://cis.ieee.org/graduate-student-research-grants.html)
 
 # Demo
+* End-to-End Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight)[code](https://github.com/salesforce/simpletod)
+[blog](https://blog.salesforceairesearch.com/simpletod/)
+
+![SimpleTOD](https://github.com/salesforce/simpletod/blob/master/images/simpletod_autoregressive.gif?raw=true)
+
+* Speech Synthesis using Generative Adversarial Network (Interspeech 2018, ICLR 2019)
+[blog](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
+
+
 * Number generation with Variational Convolutional Autoencoder [(code-python/theano)](https://github.com/ehosseiniasl/variational-convolutional-autoencoder)  
     
 ![3digit](https://github.com/ehosseiniasl/variational-convolutional-autoencoder/blob/master/3d.gif?raw=true)  
@@ -43,6 +77,11 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 * Inception-ResNet implementation [(code/keras)](https://github.com/ehosseiniasl/inception-resnet)  
 
 ## Publication
+
+### NLP
+
+## Speech
+
 
 ### Convolutional Network
 
