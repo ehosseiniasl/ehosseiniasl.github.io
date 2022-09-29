@@ -64,7 +64,7 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 
 * Aspect-based Sentiment Analysis with generative language model (NAACL 2022) [(code)](https://github.com/salesforce/fewshot_absa)
 
-![gif](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/exp1.gif)
+![gif](https://github.com/salesforce/fewshot_absa/blob/master/images/exp1.gif)
 
 
 * Speech Synthesis using Generative Adversarial Network (Interspeech 2018, ICLR 2019) [(blog)](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
