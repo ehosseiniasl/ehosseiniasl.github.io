@@ -22,7 +22,7 @@ My paper on few-shot domain adaptation was accepted to ICLR 2019
 * June, 2018
 My paper on speech synthesis using generative adversarial network is accepted to Interspeech 2018
 
-* September, 2016  
+<!-- * September, 2016  
 Our NSF proposal was awarded based on my IEEE TNNLS paper for part-based representation in Deep Networks [[paper](https://arxiv.org/abs/1601.02733)]  
 Title: Additive Parts-based Data Representation with Nonnegative Sparse Autoencoders [[link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1641042&HistoricalAwards=false)]
 
@@ -33,7 +33,7 @@ Three papers (one as first author, two as co-author) accepted in ICIP 2016, Sept
 Winner of Outstanding Dissertation Award at University of Louisville
 
 * June 2015  
-Winner of IEEE Graduate Student Research Grant for Part-based representation in Deep Network [[link](http://cis.ieee.org/graduate-student-research-grants.html)]
+Winner of IEEE Graduate Student Research Grant for Part-based representation in Deep Network [[link](http://cis.ieee.org/graduate-student-research-grants.html)] -->
 
 ## Honors and Awards ##
 * 2020 Spotlight paper at NeurIPS 2020
@@ -58,29 +58,47 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 
 
 # Demo
-* End-to-End Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight)[code](https://github.com/salesforce/simpletod)
-[blog](https://blog.salesforceairesearch.com/simpletod/)
+* End-to-End Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight) [(code)](https://github.com/salesforce/simpletod)/[blog](https://blog.salesforceairesearch.com/simpletod/)
 
 ![SimpleTOD](https://github.com/salesforce/simpletod/blob/master/images/simpletod_autoregressive.gif?raw=true)
 
-* Speech Synthesis using Generative Adversarial Network (Interspeech 2018, ICLR 2019)
-[blog](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
+* Aspect-based Sentiment Analysis with generative language model (NAACL 2022) [(code)](https://github.com/salesforce/fewshot_absa)
+
+![gif](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/exp1.gif)
 
 
-* Number generation with Variational Convolutional Autoencoder [(code-python/theano)](https://github.com/ehosseiniasl/variational-convolutional-autoencoder)  
+* Speech Synthesis using Generative Adversarial Network (Interspeech 2018, ICLR 2019) [(blog)](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
+![spectrogram](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/spectrogram.png)
+
+<!-- * Number generation with Variational Convolutional Autoencoder [(code-python/theano)](https://github.com/ehosseiniasl/variational-convolutional-autoencoder)  
     
 ![3digit](https://github.com/ehosseiniasl/variational-convolutional-autoencoder/blob/master/3d.gif?raw=true)  
-![9digit](https://github.com/ehosseiniasl/variational-convolutional-autoencoder/blob/master/9d.gif?raw=true)  
+![9digit](https://github.com/ehosseiniasl/variational-convolutional-autoencoder/blob/master/9d.gif?raw=true)   -->
 
-* Language Model based on similarity and RNN [(code/keras)](https://github.com/ehosseiniasl/siamese-rnn)  
+<!-- * Language Model based on similarity and RNN [(code/keras)](https://github.com/ehosseiniasl/siamese-rnn)   -->
 
-* Inception-ResNet implementation [(code/keras)](https://github.com/ehosseiniasl/inception-resnet)  
+<!-- * Inception-ResNet implementation [(code/keras)](https://github.com/ehosseiniasl/inception-resnet)   -->
 
 ## Publication
 
 ### NLP
 
-## Speech
+* E. Hosseini-Asl, W. Liu, C. Xiong, "A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis", NAACL 2022 [(paper)](https://arxiv.org/abs/2204.05356), [(code)](https://github.com/salesforce/fewshot_absa)
+
+*  E. Hosseini-Asl, B. McCann, C. Wu, S. Yavuz, R. Socher, "A Simple Language Model for Task-Oriented Dialogue", NeurIPS 2020 Spothlight, [(paper)](https://proceedings.neurips.cc/paper/2020/file/e946209592563be0f01c844ab2170f0c-Paper.pdf), [(code)](https://github.com/salesforce/simpletod)
+
+* T.He, B. McCann, C. Xiong, E. Hosseini-Asl, "Joint Energy-based Model Training for Better Calibrated Natural Language Understanding Models", EACL 2021, [(paper)](https://arxiv.org/abs/2101.06829), [(code)](https://github.com/salesforce/ebm_calibration_nlu)
+
+* C. S. Wu, A. Madotto, E. Hosseini-Asl, C. Xiong, R. Socher, P. Fung, "Transferable multi-domain state generator for task-oriented dialogue systems". ACL 2019 (outstanding paper), [(paper)](https://aclanthology.org/P19-1078/), [(code)](https://github.com/jasonwu0731/trade-dst)
+
+* E. Nouri, E. Hosseini-Asl, "Toward Scalable Neural Dialogue State Tracking Model", NeurIPS 2018, 2nd Conversational AI workshop, [(paper)](https://arxiv.org/abs/1812.00899), [(code)](https://github.com/elnaaz/GCE-Model)
+
+ 
+### Speech
+* E. Hosseini Asl, Y. Zhou, C. Xiong, R. Socher, "Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation
+", ICLR 2019, [(paper)](https://openreview.net/pdf?id=B1G9doA9F7)
+
+* E. Hosseini-Asl, Y.Zhou, C. Xiong, R. Socher, "A Multi-Discriminator CycleGAN for Unsupervised Non-Parallel Speech Domain Adaptation", Interspeech 2018, [(paper)](https://arxiv.org/abs/1804.00522)
 
 
 ### Convolutional Network
