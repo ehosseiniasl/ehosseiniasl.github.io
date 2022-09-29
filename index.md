@@ -1,5 +1,7 @@
 # Ehsan Hosseini-Asl  
-![My image](https://github.com/ehosseiniasl/resume/blob/master/me.png?raw=true)  
+<!-- ![My image](https://github.com/ehosseiniasl/resume/blob/master/profile.png?raw=true)   -->
+<!-- ![My image](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/profile.jpeg?raw=true)   -->
+<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/profile.jpeg?raw=true"  width="150" height="150"> 
 
 <img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/email.png?raw=true"  width="30" height="30"> email: \<firstname\>.\<lastname\> \[at\] gmail.com
 
@@ -13,7 +15,7 @@
 
 
 
-## Bio: 
+## Bio 
 I am a senior research scientist in Salesforce AI Research. My research area is deep learning with application to natural language processing, speech processing and computer vision. My current focus is building end-to-end language modeling in NLP, few-shot learning, and sample efficient deep learning models that generalize better to the distribution shift.
 
 
@@ -21,10 +23,9 @@ I am a senior research scientist in Salesforce AI Research. My research area is 
 
 * **April, 2022:** My paper on few-shot aspect-based sentiment analysis is accepted to NAACL 2022
 
+* **September, 2020:** My paper on end-to-end language modeling for task-oriented dialogye was acceptet as **spotlight in NeurIPS 2022**
 
-* **September, 2020:** My paper on end-to-end language modeling for task-oriented dialogye was acceptet as spotlight in NeurIPS 2022
-
-* **October, 2019:** Our on end-to-end belief state tracking for task-oriented dialogye was selected as outstanding paper at ACL 2019
+* **October, 2019:** Our on end-to-end belief state tracking for task-oriented dialogye was selected as **outstanding paper at ACL 2019**
 
 * **June, 2019:** Our paper on end-to-end belief state tracking for task-oriented dialogye was accepter to ACL 2019
 
@@ -70,17 +71,18 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 # Demo
 
 ### Task-Oriented Dialogue
-* SimpleTOD: An end-to-end Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight) [(code)](https://github.com/salesforce/simpletod)/[blog](https://blog.salesforceairesearch.com/simpletod/)
+* SimpleTOD: An end-to-end Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight) [[code]](https://github.com/salesforce/simpletod), [[blog]](https://blog.salesforceairesearch.com/simpletod/), [[paper]](https://proceedings.neurips.cc/paper/2020/file/e946209592563be0f01c844ab2170f0c-Paper.pdf), [[spotlight presentation]](https://crossminds.ai/video/a-simple-language-model-for-task-oriented-dialogue-606fd356f43a7f2f827be6ad/) 
 
 ![SimpleTOD](https://github.com/salesforce/simpletod/blob/master/images/simpletod_autoregressive.gif?raw=true)
 
 ### Sentiment Analysis
-* Few-shot Aspect-based Sentiment Analysis with generative language model (NAACL 2022) [(code)](https://github.com/salesforce/fewshot_absa)
+* Few-shot Aspect-based Sentiment Analysis with generative language model (NAACL 2022) [[code]](https://github.com/salesforce/fewshot_absa), [[paper]](https://aclanthology.org/2022.findings-naacl.58.pdf)
 
 ![gif](https://github.com/salesforce/fewshot_absa/blob/master/images/exp1.gif?raw=true)
 
-### Speech Syntesis / Speech Recognition
-* Low-resource speech synthesis/recognition using Multi-Discriminator Generative Adversarial Network (Interspeech 2018, ICLR 2019) [(blog)](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
+### Speech Syntesis / Recognition
+* Low-resource speech synthesis/recognition using Multi-Discriminator Generative Adversarial Network [[Interspeech 2018]](https://arxiv.org/abs/1804.00522) [[ICLR 2019]](https://openreview.net/pdf?id=B1G9doA9F7)), [[blog]](https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/)
+
 ![spectrogram](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/spectrogram.png?raw=true)
 
 <!-- * Number generation with Variational Convolutional Autoencoder [(code-python/theano)](https://github.com/ehosseiniasl/variational-convolutional-autoencoder)  
