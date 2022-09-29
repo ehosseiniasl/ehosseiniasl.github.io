@@ -1,7 +1,7 @@
 # Ehsan Hosseini-Asl  
 ![My image](https://github.com/ehosseiniasl/resume/blob/master/me.png?raw=true)  
 
-<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/email.png"  width="30" height="30"> email: \<firstname\>.\<lastname\> \[at\] gamil.com
+<img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/email.png?raw=true"  width="30" height="30"> email: \<firstname\>.\<lastname\> \[at\] gamil.com
 
 <img src="https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/images/resume.png"  width="30" height="30"> [Resume](https://github.com/ehosseiniasl/ehosseiniasl.github.io/blob/master/Ehsan_CV.pdf)
 
