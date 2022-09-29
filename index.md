@@ -79,7 +79,7 @@ Winner of IEEE Graduate Student Research Grant for Part-based representation in 
 
 <!-- * Inception-ResNet implementation [(code/keras)](https://github.com/ehosseiniasl/inception-resnet)   -->
 
-## Publication
+# Publication
 
 ### NLP
 
